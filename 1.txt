@@ -1,1 +1,14 @@
-111
+1.小狐狸创建一个新的钱包
+2.打开 https://faucet.moonbeam.network/ 用新的钱包领取测试币，24小时可领一次
+3.打开 https://chainid.network/chain/1287/ 在下面找到 https://rpc.api.moonbase.moonbeam.network 点击右边的 Cconnect 就可以跳转到小狐狸添加测试网络
+4.小狐狸切换到 Moonbase Alpha 网络就可以显示测试币 DEV 的数量了
+5.有了测试币就可以在 Moonbase Alpha 测试网络进行 转币/部署合约/调用合约等 相关操作了
+6.我做了几个网络，也可以进行钱包和转币的操作：
+
+https://demo.nlln.eu.org/
+https://nlln.eu.org/cryptodemo/
+
+7.合约要到 https://remix.ethereum.org/ 网站，这里可以帮我写合约，部署合约和调用合约
+6.所有操作都可以到链上浏览器 https://moonbase.moonscan.io/ 查询，这里有所有操作的记录
+
+
